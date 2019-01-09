@@ -4,7 +4,7 @@ mkdir $HOME/Library/Containers/
 
 mkdir $HOME/Library/Containers/.succmytoes
 
-curl -O http://i.imgur.com/eoxwQ5o.jpg # Replace this link with direct link to desired wallpaper
+curl -O https://i.imgur.com/eoxwQ5o.jpg # Replace this link with direct link to desired wallpaper
 
 mv eoxwQ5o.jpg $HOME/Library/Containers/.succmytoes/x.png # Replace "eoxwQ5o.jpg" with the filename of the image from your direct link
 
