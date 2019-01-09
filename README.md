@@ -19,6 +19,7 @@ This set of scripts downloads a wallpaper from the link placed in "setup.bash", 
 * Loops a check of the current wallpapers hash. If it doesn't match our set wallpaper, we re-set the wallpaper and hash.
 
 ### sampleicon.icns
+* Cutout of the Bee Movie wallpaper currently referenced in the script.
 * Sample icon intended as a placeholder for creation of application using [Sveinbjorn Thordarson's Platypus](https://github.com/sveinbjornt/Platypus).
 * Converted from .png to .icns using [offdrive](https://offdrive.com/convert/png/icns).
 
