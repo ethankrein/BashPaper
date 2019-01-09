@@ -22,6 +22,8 @@ This set of scripts downloads a wallpaper from the link placed in "setup.bash", 
 * Sample icon intended as a placeholder for creation of application using [Sveinbjorn Thordarson's Platypus](https://github.com/sveinbjornt/Platypus).
 * Converted from .png to .icns using [offdrive](https://offdrive.com/convert/png/icns).
 
+**The "Remove" directory undoes the above.**
+
 
 
 
