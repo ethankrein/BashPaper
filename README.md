@@ -61,3 +61,4 @@ This set of scripts downloads a wallpaper from the link placed in "setup.bash", 
 * Possibly change SongPaper to constantly set the wallpaper even if music is not playing
 * Tips such as word doc icns
 * Settings for [Sveinbjorn Thordarson's Platypus](https://github.com/sveinbjornt/Platypus).
+* Images of the scripts actions
