@@ -8,7 +8,7 @@ This set of scripts downloads a wallpaper from the link placed in "setup.bash", 
 
 ### setup.bash
 * Creates a hidden directory
-* Downloads specified image file and moves it into the hidden directory. (Current image is [The Bee Movie script](https://i.imgur.com/eoxwQ5o.jpg) by  [Reddit user /u/bionicjoey](https://www.reddit.com/user/bionicjoey))
+* Downloads specified image file and moves it into the hidden directory. (Current image is [The entire Bee Movie script except it's a wallpaper](https://i.imgur.com/eoxwQ5o.jpg) by  [Reddit user /u/bionicjoey](https://www.reddit.com/user/bionicjoey))
 * Sets the picture to the desktop background
 * Copies the "setpaper.sh" script into the hidden directory
 * Writes the LaunchAgent that starts "setpaper.sh" on login
