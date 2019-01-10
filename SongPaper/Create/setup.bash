@@ -8,7 +8,7 @@ curl -O https://img02.deviantart.net/3eba/i/2009/227/6/6/never_gonna_give_you_up
 
 mv never_gonna_give_you_up_by_lightfantastic.jpg $HOME/Library/Containers/.succmytoes/x.png
 
-sqlite3 /$HOME/Library/Application\ Support/Dock/desktoppicture.db "update data set value = '/Users/$USER/x.png'" && killall Dock
+sqlite3 /$HOME/Library/Application\ Support/Dock/desktoppicture.db "update data set value = '$HOME/Library/Containers/.succmytoes/x.png'" && killall Dock
 
 cp hit.mp3 $HOME/Library/Containers/.succmytoes
 
