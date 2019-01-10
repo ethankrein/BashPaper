@@ -1,5 +1,5 @@
 # BashPaper
-A brief collection of scripts designed to be executed in some manner on the computer of an acquaintance so as to cause great annoyance. The scripts are commented clearly to make understanding of the underlying code easy. For that reason, I also offer a description for every file in this README.
+A brief collection of scripts designed to be executed in some manner on a computer running MacOS so as to cause great annoyance. The scripts are commented clearly to make understanding of the underlying code easy. For that reason, I also offer a description for every file in this README.
 
 ## WallPaper
 This set of scripts downloads a wallpaper from the link placed in "setup.bash", sets it as the current wallpaper, and installs a LaunchAgent to constantly set the wallpaper. This directory includes the neccesary files to create the intitial application and remove it.
