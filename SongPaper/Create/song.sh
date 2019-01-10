@@ -8,7 +8,8 @@ mainsum=$(md5 "$main" | cut -d "=" -f2 | cut -d " " -f2) # Cuts the returned val
 runtime=212 # Set song duration in seconds
 
 while true; do # Loop the music
-sleep $(( ( RANDOM % 120 ) + 60 )) # Time between plays. Random time within 3 hours, adds minimum 1 hour cooldown
+sleep $(( ( RANDOM % 10800 ) + 3600 )) # Time between plays in seconds. The non-random time (currently 3600 seconds/1 hour) is a minimum amount of time between plays, added to a random number (currently 10800/3 hours) to be less predictable.
+
 	afplay hit.mp3 & # Starts our song in the background
 	
 	SECONDS=0 # Reset seconds timer for use with loop
