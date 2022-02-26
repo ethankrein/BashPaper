@@ -1,3 +1,6 @@
+# Archival
+This project is not actively maintained.
+
 # BashPaper
 A brief collection of scripts designed to be executed in some manner on a computer running MacOS so as to cause great annoyance. The scripts are commented clearly to make understanding of the underlying code easy. For that reason, I also offer a description for every file in this README.
 
@@ -32,7 +35,7 @@ This set of scripts downloads a wallpaper from the link placed in "setup.bash", 
 
 ### setup.bash
 * Creates a hidden directory
-* Downloads specified image file and moves it into the hidden directory. (Current image is [This very nice wallpaper with Rick Astley's face](https://img02.deviantart.net/3eba/i/2009/227/6/6/never_gonna_give_you_up_by_lightfantastic.jpg) by  [I cannot for the life of me find the creator of this image.]())
+* Downloads specified image file and moves it into the hidden directory. (Current image is [This very nice wallpaper with Rick Astley's face](https://img02.deviantart.net/3eba/i/2009/227/6/6/never_gonna_give_you_up_by_lightfantastic.jpg) by lightfantastic.
 * Sets the picture to the desktop background
 * Copies "hit.mp3" (the chosen song) into the hidden directory. Current song is Rick Astley's "Never Gonna Give You Up"
 * Copies the "song.sh" script into the hidden directory
